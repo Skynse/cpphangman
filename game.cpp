@@ -23,6 +23,7 @@ int main() {
     std::string full = std::string(chosen.size(), '_');
 
     while (tries > 0) {
+	std::cout << full << "\n";
         std::cout << "Tries: " << tries << "\n";
         std::cout << "Type a letter: ";
         std::cin >> choice;
