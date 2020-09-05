@@ -1,4 +1,5 @@
 # cpphangman
+![img1](imgs/img1.png)
 
 ## how to play
 
